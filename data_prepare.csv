@@ -1,0 +1,3 @@
+Virus,typeM,typeF,orig,samples,spotfiles,imgs,json
+N,Normal,Normal,L5,E:/visium/analysis/L5/filtered_feature_bc_matrix.h5,E:/visium/analysis/L5/spatial/tissue_positions_list.csv,E:/visium/analysis/L5/spatial/tissue_hires_image.png,E:/visium/analysis/L5/spatial/scalefactors_json.json
+N,Normal,Normal,L18,E:/visium/analysis/L18/filtered_feature_bc_matrix.h5,E:/visium/analysis/L18/spatial/tissue_positions_list.csv,E:/visium/analysis/L18/spatial/tissue_hires_image.png,E:/visium/analysis/L18/spatial/scalefactors_json.json
