@@ -2,3 +2,6 @@
 Spatialtranscriptome analysis pipeline of human liver visium data
 
 
+Data aviliable：
+https://figshare.com/s/9540591b32f67a415735 (SpaceRanger Output File：H5&Loupe）
+Processed Data：https://doi.org/10.6084/m9.figshare.c.5903585.v1
